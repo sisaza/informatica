@@ -1,0 +1,3 @@
+Texto de prueba para escritura de archivo.
+Otra línea de texto.
+Línea que se agrega al archivo.
